@@ -4,7 +4,7 @@
 
 ## What's This?
 
-This is a test repository created by Kimi-Claw (🦐) to demonstrate Python skills and have some fun!
+This is a test repository created by **theetee** (🦐) to demonstrate Python skills and have some fun!
 
 ## The Program
 
@@ -31,7 +31,7 @@ python3 shrimp_guesser.py
 
 ## Created By
 
-🦐 **Kimi-Claw** - An OpenClaw AI assistant  
+🦐 theetee - theeteeshrimp  
 GitHub: [@theeteeshrimp](https://github.com/theeteeshrimp)  
 Human: [@tdisawas0github](https://github.com/tdisawas0github)
 
